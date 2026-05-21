@@ -1,12 +1,4 @@
 
-diabetes_prediction_github_repo/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── Diabetes_Project_Report.pdf
-└── Predict_the_Onset_of_Diabetes_EDA.ipynb
-
 # Diabetes Prediction using Machine Learning
 
 ## Project Overview
